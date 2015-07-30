@@ -1,0 +1,4 @@
+[package]
+name = "pwd"
+version = "0.1.0"
+authors = ["bobkingstone <robert.kingstone@gmail.com>"]
