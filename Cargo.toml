@@ -2,3 +2,6 @@
 name = "pwd"
 version = "0.1.0"
 authors = ["bobkingstone <robert.kingstone@gmail.com>"]
+
+[dependencies]
+rust-crypto = "0.2.31"
